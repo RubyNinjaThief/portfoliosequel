@@ -2,7 +2,49 @@ body {
   background-color:white;
   background-image: url("cables.jpg"); }
 
-h1 h2 h3 h4 h5 h6 p { 
+h1 { 
+display:block;
+margin:auto;
+font-family:sans-serif; 
+text-align:center;
+  background-color:white; }
+
+h2 { 
+display:block;
+margin:auto;
+font-family:sans-serif; 
+text-align:center;
+  background-color:white; }
+
+h3 { 
+display:block;
+margin:auto;
+font-family:sans-serif; 
+text-align:center;
+  background-color:white; }
+
+h4 { 
+display:block;
+margin:auto;
+font-family:sans-serif; 
+text-align:center;
+  background-color:white; }
+
+h5 { 
+display:block;
+margin:auto;
+font-family:sans-serif; 
+text-align:center;
+  background-color:white; }
+
+h6 { 
+display:block;
+margin:auto;
+font-family:sans-serif; 
+text-align:center;
+  background-color:white; }
+
+p { 
 display:block;
 margin:auto;
 font-family:sans-serif; 
