@@ -1,0 +1,23 @@
+body {
+  background-color:yellow;
+  background-image: url("J-osh.jpg"); }
+
+h1,h2,h3,h4,h5,h6,p { 
+display:block;
+margin:auto;
+font-family:sans-serif; 
+text-align:center;
+  background-color:yellow; }
+
+img {
+  display:block;
+  margin:auto;
+  border-radius:15px; }
+
+h1.header {
+display:block;
+margin:auto;
+font-family:sans-serif; 
+text-align:center;
+background-color:yellow;
+font-size:75px; }
