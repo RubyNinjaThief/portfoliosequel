@@ -1,0 +1,50 @@
+body {
+  background-color:white;
+  background-image: url("Heynowyoureakeemstar.png"); }
+
+h1,h2,h3,h4,h5,h6,p { 
+display:block;
+margin:auto;
+font-family:sans-serif; 
+text-align:center;
+  background-color:white; }
+
+img {
+  display:block;
+  margin:auto;
+  border-radius:15px; }
+
+h1.header {
+display:block;
+margin:auto;
+font-family:sans-serif; 
+text-align:center;
+background-color:white;
+  font-size:75px; }
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #ffff00;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #ffffff;
+}
